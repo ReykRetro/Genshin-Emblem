@@ -1,0 +1,9 @@
+#This is an example script.
+#Accepted formats are
+#  S1234 (play sfx 0x1234 when activating)
+#  D (if this line is found, it will be a defensive animation)
+#  [duration] [file.png]
+
+5  testskill.png
+10 testskill2.png
+15 testskill3.png
